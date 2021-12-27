@@ -1,4 +1,4 @@
-# The official Recon API client.
+# The official Recon API client
 
 Valid usage of the experimental API running @ [test.recon.us.com](https://test.recon.us.com).
 
