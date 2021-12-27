@@ -14,7 +14,7 @@ Before requesting an API key, please create an account @ [test.recon.us.com](htt
 
 > An asynchronous client is on the way!
 
-> REST endpoints are also a possibility in the future.
+> REST endpoint/s are also a possibility in the future.
 
 -----
 
