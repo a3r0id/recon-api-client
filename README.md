@@ -12,8 +12,6 @@ Before requesting an API key, please create an account @ [test.recon.us.com](htt
 
 ## Notes
 
-> I plan to make this a paid service in the future.
-
 > An asynchronous client is on the way!
 
 > REST endpoints are also a possibility in the future.
