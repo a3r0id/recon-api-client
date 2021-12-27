@@ -1,7 +1,7 @@
             
 import logging
 from datetime import datetime
-from recon_client import ReconSession
+from src.recon_client import ReconSession
 
 # onReady handler         
 def onReady(tools):
