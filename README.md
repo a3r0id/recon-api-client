@@ -17,3 +17,8 @@ Before requesting an API key, please create an account @ [test.recon.us.com](htt
 > An asynchronous client is on the way!
 
 > REST endpoints are also a possibility in the future.
+
+-----
+
+## Websocket Flow (Diagram)
+![](https://raw.githubusercontent.com/hostinfodev/recon-api-client/3ce168b8ebfd9e59723a00ea7879cd30965b5850/diagram/Recon%20API%20-%20Websocket.drawio.svg)
